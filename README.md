@@ -1,16 +1,9 @@
-# must
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# MUST (Music Study)
+2024년 캡스톤 디자인 프로젝트에서 사용한 프론트엔드 코드입니다. Flutter와 dart를 사용하여 일본어 학습 어플리케이션을 구현하였습니다
+# 프로젝트 소개
+J-Pop 가사로 일본어를 학습할 수 있는 안드로이드 어플리케이션입니다. 유저는 직접 자신이 원하는 노래를 선택하여 학습을 진행할 수 있습니다. 서버에 미리 등록되지 않은 곡이라도 AI를 활용하여 노래 가사속 단어를 추출하고 퀴즈를 생성할 수 있도록 제작하였습니다.
+#개발기간
+- 2024.03 ~ 2024.06.07
+- 아이디에이션 및 제안서 작성
+- UI/UX 디자인
+- 
